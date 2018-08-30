@@ -8,6 +8,6 @@ int main(int argc,char** argv)
 	cv::waitKey(0);
 	cv::destroyWindow("Example1");
 
-	return 0;//测试
+	return 0;
 }
 
